@@ -6,7 +6,7 @@ Publisher:Token Kitchen, 10119 Berlin <br>
 http://token.kitchen<br>
 Design: Justyna Zubrycka <br>
 Production: Caroline Helbing<br>
-French Translation: Sophie Portolano,Philippe Honigman, Jean-Baptiste Dezard, Martin Saudubray, Françoise Arbelot, Aline Detrez, Aude Launayau, Bettina Boon Falleur, Perrine de Coëtlogon.
+French Translation: Sophie Portolano, Philippe Honigman, Jean-Baptiste Dezard, Martin Saudubray, Françoise Arbelot, Aline Detrez, Aude Launayau, Bettina Boon Falleur, Perrine de Coëtlogon.
 
 # Versions
 Github: https://github.com/Token-Economy-Book/FrenchTranslation/wiki (work in progress)<br>
